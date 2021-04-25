@@ -1,17 +1,17 @@
 # DiscordMusicBot
 
 ## Commands list:
-  !bot play [title or url] 
-  !bot play [@nickname] [title or url] 
-  !bot playlist [url] 
-  !bot skip  
-  !bot skipto [index]
-  !bot pause 
-  !bot resume  
-  !bot clear  
-  !bot queue  
-  !bot delete [index] 
-  !bot lyrics
-  !bot loop 
-  !bot loopone 
-  !bot loopnone'
+!bot play [title or url] \n
+!bot play [@nickname] [title or url]  \n
+!bot playlist [url]  \n
+!bot skip   \n
+!bot skipto [index] \n
+!bot pause  \n
+!bot resume   \n
+!bot clear   \n
+!bot queue   \n
+!bot delete [index]  \n
+!bot lyrics \n
+!bot loop  \n
+!bot loopone  \n
+!bot loopnone \n
