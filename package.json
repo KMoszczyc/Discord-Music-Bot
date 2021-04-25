@@ -1,0 +1,32 @@
+{
+  "name": "ozjaszbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.3",
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.2.7",
+    "fluent-ffmpeg": "^2.1.2",
+    "googleapis": "^66.0.0",
+    "lyrics-finder": "^21.7.0",
+    "song-lyrics-api": "git+https://github.com/s0ftik3/lyrics-api.git",
+    "spotify-web-api-node": "^5.0.2",
+    "translation-google": "^0.2.1",
+    "youtube-search": "^1.1.6",
+    "ytdl-core": "^4.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.17.0",
+    "prettier": "2.2.1"
+  }
+}
