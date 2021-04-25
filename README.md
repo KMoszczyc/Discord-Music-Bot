@@ -1,5 +1,9 @@
 # DiscordMusicBot
 
+##
+For this to work you need to specify some tokens in .env file,
+f.e discord bot token and youtube api token + sometimes you're also gonna need youtube cookie.
+
 ## Commands list:
 !bot play [title or url]  
 !bot play [@nickname] [title or url]  
