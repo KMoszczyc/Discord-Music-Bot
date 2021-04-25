@@ -1,4 +1,5 @@
-# DiscordMusicBot
+# Discord Music Bot
+Simple discord music bot written in node.js. It can play songs, playlists, display queue etc..
 
 ##
 For this to work you need to specify some tokens in .env file,
