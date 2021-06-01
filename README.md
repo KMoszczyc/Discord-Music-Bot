@@ -19,3 +19,8 @@ f.e discord bot token and youtube api token + sometimes you're also gonna need y
 - loop  
 - loopone  
 - loopnone  
+
+Bot also supports shortcuts f.e:
+- p -> play
+- q -> queue
+- etc..
