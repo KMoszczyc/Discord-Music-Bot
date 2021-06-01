@@ -1,5 +1,5 @@
 # Discord Music Bot
-Simple discord music bot written in node.js. It can play songs, playlists, display queue etc..
+Discord music bot that plays songs from youtube/spotify on discord.  Ready for deployment on Heroku.
 
 ## Setup
 For this to work you need to specify some tokens that are in .env file,
