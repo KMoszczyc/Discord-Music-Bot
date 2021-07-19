@@ -1,5 +1,5 @@
 # Discord Music Bot
-Discord music bot that plays songs from youtube/spotify on discord.  Ready for deployment on Heroku.
+Discord music bot that plays songs from youtube/spotify on discord.  Ready for deployment on Heroku.  
 You can try my version of the bot on your server: https://discord.com/oauth2/authorize?client_id=794899413155577866&scope=bot
 
 ## Setup
